@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efded7a6-966f-4e8c-815b-53afdce96566" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/com/microservices/inventoryservice/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/microservices/inventoryservice/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/src/main/java/com/microservices/inventoryservice/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/src/main/java/com/microservices/inventoryservice/controller/InventoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/src/main/java/com/microservices/inventoryservice/model/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/src/main/java/com/microservices/inventoryservice/repository/InventoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/src/main/java/com/microservices/inventoryservice/service/InventoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/inventory-service/src/test/java/com/microservices/inventoryservice/InventoryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/dto/OrderLineItemsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/dto/OrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/model/OrderLineItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/java/com/microservices/orderservice/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/order-service/src/test/java/com/microservices/orderservice/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/java/com/microservices/productservice/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/java/com/microservices/productservice/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/java/com/microservices/productservice/dto/ProductRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/java/com/microservices/productservice/dto/ProductResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/java/com/microservices/productservice/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/java/com/microservices/productservice/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/java/com/microservices/productservice/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-main/product-service/src/test/java/com/microservices/productservice/ProductServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/microservices/orderservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/microservices/orderservice/service/OrderService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2S5C1bUmLxnoeAWHgImoOH5ciOQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efded7a6-966f-4e8c-815b-53afdce96566" name="Changes" comment="" />
+      <created>1688426842445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688426842445</updated>
+    </task>
+    <servers />
+  </component>
+</project>

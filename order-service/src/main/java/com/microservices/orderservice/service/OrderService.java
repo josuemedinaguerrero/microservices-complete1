@@ -38,7 +38,7 @@ public class OrderService {
 
     List<String> skuCodes = order.getOrderLineItems()
         .stream()
-        .map(orderLineItem -> orderLineItem.getSkuCode())
+        .map(OrderLineItems::getSkuCode)
         .toList();
 
     // Call Inventory Service, and place order if product is in stock
@@ -47,10 +47,6 @@ public class OrderService {
             .retrieve()
                 .bodyToMono(InventoryResponse[].class)
                     .block();
-
-    for (InventoryResponse inventoryResponse : inventoryResponses) {
-      System.out.println("ITERANDO ANDO: " + inventoryResponse);
-    }
 
     boolean allProductsInStock = Arrays.stream(inventoryResponses)
         .allMatch(InventoryResponse::isInStock);
